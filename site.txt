@@ -1,0 +1,2814 @@
+<!DOCTYPE html>
+<html class="client-nojs skin-theme-clientpref-day" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Fish - Official Fisch Wiki</title>
+<script>document.documentElement.className="client-js skin-theme-clientpref-day";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b810a0a616a3ea070febf9e6","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fish","wgTitle":"Fish","wgCurRevisionId":2604,"wgRevisionId":2604,"wgArticleId":11,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Fish","wgRelevantArticleId":11,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"simpleBatchUploadMaxFilesPerBatch":{"*":5,"autoconfirmed":25,"bureaucrat":500,
+"confirmed":50,"sysop":250,"user":5},"wgNoticeProject":"all","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"wgIsMobile":false,"wgCentralAuthMobileDomain":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.timeless":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.CookieWarning.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.MobileDetect.nomobile":"ready","ext.DarkMode.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.timeless.js","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.checkUser.clientHints","ext.CookieWarning","ext.echo.centralauth","ext.eventLogging","ext.DarkMode","ext.urlShortener.toolbar","ext.moderation.notify","ext.moderation.notify.desktop","ext.centralauth.centralautologin","ext.purge"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.CookieWarning.styles%7Cext.DarkMode.styles%7Cext.MobileDetect.nomobile%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.timeless&amp;only=styles&amp;skin=timeless">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=timeless"></script>
+<!--[if IE]><link rel="stylesheet" href="/1.42/skins/Timeless/resources/IE9fixes.css?ffe73" media="screen"><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=timeless">
+<meta name="generator" content="MediaWiki 1.42.3">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="Fish are the core item and primary objective of Fisch. Each location hosts it&#039;s unique set of fish, which must be collected to complete the bestiary. Many locations...">
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<meta property="og:title" content="Fish - Official Fisch Wiki">
+<meta property="og:type" content="website">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Fish?action=edit">
+<link rel="apple-touch-icon" href="https://static.miraheze.org/fischwiki/8/8c/FischWikiFavicon192x192.png">
+<link rel="icon" href="https://static.miraheze.org/fischwiki/d/d4/FischWikiFavicon32x32.png">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Official Fisch Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://fisch.miraheze.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://fisch.miraheze.org/wiki/Fish">
+<link rel="alternate" type="application/atom+xml" title="Official Fisch Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
+<link rel="dns-prefetch" href="https://meta.miraheze.org" />
+<meta property="og:title" content="Fish">
+<meta property="og:site_name" content="Official Fisch Wiki">
+<meta property="og:url" content="https://fisch.miraheze.org/wiki/Fish">
+<meta property="og:description" content="Fish are the core item and primary objective of Fisch. Each location hosts it&#039;s unique set of fish, which must be collected to complete the bestiary. Many locations...">
+<meta property="og:image" content="https://static.miraheze.org/fischwiki/d/d6/FischWikiLogo.webp">
+<meta property="article:modified_time" content="2024-11-02T16:36:56Z">
+<meta property="article:published_time" content="2024-11-02T16:36:56Z">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"Fish - Official Fisch Wiki","headline":"Fish - Official Fisch Wiki","mainEntityOfPage":"Fish","identifier":"https:\/\/fisch.miraheze.org\/wiki\/Fish","url":"https:\/\/fisch.miraheze.org\/wiki\/Fish","description":"Fish are the core item and primary objective of Fisch. Each location hosts it's unique set of fish, which must be collected to complete the bestiary. Many locations...","dateModified":"2024-11-02T16:36:56Z","datePublished":"2024-11-02T16:36:56Z","image":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/fischwiki\/d\/d6\/FischWikiLogo.webp"},"author":{"@type":"Organization","name":"Official Fisch Wiki","url":"https:\/\/fisch.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/fischwiki\/d\/d6\/FischWikiLogo.webp","caption":"Official Fisch Wiki"}},"publisher":{"@type":"Organization","name":"Official Fisch Wiki","url":"https:\/\/fisch.miraheze.org","logo":{"@type":"ImageObject","url":"https:\/\/static.miraheze.org\/fischwiki\/d\/d6\/FischWikiLogo.webp","caption":"Official Fisch Wiki"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/fisch.miraheze.org\/wiki\/Special:Search?search={search_term}","query-input":"required name=search_term"}}</script>
+<link rel="dns-prefetch" href="//login.miraheze.org">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fish rootpage-Fish skin-timeless action-view skin--responsive"><div id="mw-wrapper"><div id="mw-header-container" class="ts-container"><div id="mw-header" class="ts-inner"><div id="user-tools"><div id="personal"><h2><span>Anonymous</span></h2><div id="personal-inner" class="dropdown"><div role="navigation" class="mw-portlet" id="p-personal" title="User menu" aria-labelledby="p-personal-label"><h3 id="p-personal-label" lang="en" dir="ltr">Not logged in</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-darkmode" class="mw-list-item"><a href="#" class="ext-darkmode-link"><span>Dark mode</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/wiki/Special:CreateAccount?returnto=Fish" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/wiki/Special:UserLogin?returnto=Fish" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li></ul></div></div></div></div></div><div id="p-logo-text" class="mw-portlet" role="banner"><a id="p-banner" class="mw-wiki-title long" href="/wiki/Main_Page">Official Fisch Wiki</a></div><div class="mw-portlet" id="p-search"><h3 lang="en" dir="ltr"><label for="searchInput">Search</label></h3><form action="/w/index.php" id="searchform"><div id="simpleSearch"><div id="searchInput-container"><input type="search" name="search" placeholder="Search Official Fisch Wiki" aria-label="Search Official Fisch Wiki" autocapitalize="sentences" title="Search Official Fisch Wiki [f]" accesskey="f" id="searchInput"></div><input type="hidden" value="Special:Search" name="title"><input class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" id="mw-searchButton" value="Search"><input class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" id="searchButton" value="Go"></div></form></div></div><div class="visualClear"></div></div><div id="mw-header-hack" class="color-bar"><div class="color-middle-container"><div class="color-middle"></div></div><div class="color-left"></div><div class="color-right"></div></div><div id="mw-header-nav-hack"><div class="color-bar"><div class="color-middle-container"><div class="color-middle"></div></div><div class="color-left"></div><div class="color-right"></div></div></div><div id="menus-cover"></div><div id="mw-content-container" class="ts-container"><div id="mw-content-block" class="ts-inner"><div id="mw-content-wrapper"><div id="mw-content"><div id="content" class="mw-body" role="main"><div id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators">
+</div>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Fish</span></h1><div id="bodyContentOuter"><div id="siteSub">From Official Fisch Wiki</div><div id="mw-page-header-links"><div role="navigation" class="mw-portlet tools-inline" id="p-namespaces" aria-labelledby="p-namespaces-label"><h3 id="p-namespaces-label" lang="en" dir="ltr">Namespaces</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Fish" title="View the content page [c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/wiki/Talk:Fish?action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li></ul></div></div><div role="navigation" class="mw-portlet tools-inline" id="p-more" aria-labelledby="p-more-label"><h3 id="p-more-label" lang="en" dir="ltr">More</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="ca-more" class="dropdown-toggle mw-list-item"><span>More</span></li></ul></div></div><div role="navigation" class="mw-portlet tools-inline" id="p-views" aria-labelledby="p-views-label"><h3 id="p-views-label" lang="en" dir="ltr">Page actions</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Fish"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/wiki/Fish?action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/wiki/Fish?action=history" title="Past revisions of this page [h]" accesskey="h"><span>History</span></a></li><li id="ca-purge" class="mw-list-item"><a href="/wiki/Fish?action=purge"><span>Purge</span></a></li></ul></div></div></div><div class="visualClear"></div><div id="bodyContent"><div id="contentSub"><div id="mw-content-subtitle"></div></div><div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>Fish are the core item and primary objective of <i>Fisch</i>. Each <a href="/wiki/Category:Locations" class="mw-redirect" title="Category:Locations">location</a> hosts it's unique set of fish, which must be collected to complete the bestiary. Many locations also contain "sublocations" where a different pool of fish may be caught (i.e. <a href="/wiki/Moosewood" title="Moosewood">Moosewood</a> pond). Each fish may have an associated weather condition, time of day, season, bait, and specific fishing location that will boost the odds of obtaining it, making bestiary completion easier. Fish may also be caught with a <a href="/wiki/Mutations" title="Mutations">mutation</a>, increasing it's value and changing it's appearance. Fish have an associated rarity, however the exact odds and mechanics behind determining catches is unknown.
+</p><p>All Fish are catalogued and categorised in the <a href="/wiki/Items#Bestiary" title="Items">Bestiary</a>, completing full categories rewards <a href="/wiki/Fishing_Rods#Bobbers" title="Fishing Rods">Bobbers</a>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_Fish"><span class="tocnumber">1</span> <span class="toctext">List of Fish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#List_of_All_Fish"><span class="tocnumber">1.1</span> <span class="toctext">List of All Fish</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Brine_Pool"><span class="tocnumber">1.2</span> <span class="toctext">Brine Pool</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Desolate_Deep"><span class="tocnumber">1.3</span> <span class="toctext">Desolate Deep</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Keepers_Altar"><span class="tocnumber">1.4</span> <span class="toctext">Keepers Altar</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Moosewood"><span class="tocnumber">1.5</span> <span class="toctext">Moosewood</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mushgrove_Swamp"><span class="tocnumber">1.6</span> <span class="toctext">Mushgrove Swamp</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ocean"><span class="tocnumber">1.7</span> <span class="toctext">Ocean</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Roslit_Bay"><span class="tocnumber">1.8</span> <span class="toctext">Roslit Bay</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Roslit_Volcano"><span class="tocnumber">1.9</span> <span class="toctext">Roslit Volcano</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Snowcap_Island"><span class="tocnumber">1.10</span> <span class="toctext">Snowcap Island</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Sunstone_Island"><span class="tocnumber">1.11</span> <span class="toctext">Sunstone Island</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Terrapin_Island"><span class="tocnumber">1.12</span> <span class="toctext">Terrapin Island</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Vertigo"><span class="tocnumber">1.13</span> <span class="toctext">Vertigo</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Regionless"><span class="tocnumber">1.14</span> <span class="toctext">Regionless</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#FischFright_Event"><span class="tocnumber">1.15</span> <span class="toctext">FischFright Event</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="List_of_Fish">List of Fish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=1" title="Edit section: List of Fish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Note: Average kg Weights &amp; Average C$ Values on This Page, the <a href="/wiki/All_Fish" title="All Fish">All Fish</a> Page, pages for Individual <a href="/wiki/Locations" title="Locations">Locations</a>, and any pages where the Fish Values are listed may have inaccuracies due to their data coming from a variety of sources and not all have been individually confirmed
+</p><p>However, the C$/kg values should all be correct
+</p>
+<h3><span class="mw-headline" id="List_of_All_Fish">List of All Fish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=2" title="Edit section: List of All Fish">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A list of all Fish, in the order they can be found in the "All" section of the bestiary can be found <a href="/wiki/All_Fish" title="All Fish">Here</a>
+Note: Currently not updated with fish added in <a href="/wiki/Changelogs#1.03.0" title="Changelogs">Version 1.03.0</a> (Desolate Dwelling Update)
+</p>
+<h3><span class="mw-headline" id="Brine_Pool">Brine Pool</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=3" title="Edit section: Brine Pool">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Desolate_Deep#Brine_Pool" title="Desolate Deep">Brine Pool</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Bone" class="mw-redirect" title="Bone">Bone</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>12</td>
+<td>1.8</td>
+<td>21.5
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Gazerfish" title="Gazerfish">Gazerfish</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Autumn, Winter</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1.72</td>
+<td>11</td>
+<td>19
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Brine_Shrimp" title="Brine Shrimp">Brine Shrimp</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Day</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>766.6</td>
+<td>0.2</td>
+<td>155
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Globe_Jellyfish" title="Globe Jellyfish">Globe Jellyfish</a></td>
+<td>Unusual</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>12.5</td>
+<td>19</td>
+<td>140
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Dweller_Catfish" title="Dweller Catfish">Dweller Catfish</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Winter</td>
+<td>Weird Algae</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>27.5</td>
+<td>13</td>
+<td>160
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Eyefestation" title="Eyefestation">Eyefestation</a></td>
+<td>Legendary</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Autumn</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>4.62</td>
+<td>565</td>
+<td>2610
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Spectral_Serpent" title="Spectral Serpent">Spectral Serpent</a></td>
+<td>Mythic</td>
+<td>Clear</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Truffle Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>0.692</td>
+<td>12000</td>
+<td>8300
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Desolate_Deep">Desolate Deep</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=4" title="Edit section: Desolate Deep">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Desolate_Deep" title="Desolate Deep">Desolate Deep</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Stalactite" class="mw-redirect" title="Stalactite">Stalactite</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>2.69</td>
+<td>9.5</td>
+<td>25.5
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Horseshoe_Crab?action=edit&amp;redlink=1" class="new" title="Horseshoe Crab (page does not exist)">Horseshoe Crab</a></td>
+<td>Common</td>
+<td>Clear, Rainy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>2.77</td>
+<td>6.5</td>
+<td>18
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Slate_Tuna?action=edit&amp;redlink=1" class="new" title="Slate Tuna (page does not exist)">Slate Tuna</a></td>
+<td>Common</td>
+<td>Clear, Rainy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Super Flakes</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1.166</td>
+<td>45</td>
+<td>52.2
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Phantom_Ray?action=edit&amp;redlink=1" class="new" title="Phantom Ray (page does not exist)">Phantom Ray</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Summer, Autumn</td>
+<td>Weird Algae</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>23.3</td>
+<td>5</td>
+<td>226.5
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Crates#Coral_Geode" title="Crates">Coral Geode</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>11.11</td>
+<td>16</td>
+<td>200
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Cockatoo_Squid?action=edit&amp;redlink=1" class="new" title="Cockatoo Squid (page does not exist)">Cockatoo Squid</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Summer, Winter</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>100</td>
+<td>1.2</td>
+<td>120
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Rockstar_Hermit_Crab?action=edit&amp;redlink=1" class="new" title="Rockstar Hermit Crab (page does not exist)">Rockstar Hermit Crab</a></td>
+<td>Unusual</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>354.2</td>
+<td>0.8</td>
+<td>285
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Banditfish?action=edit&amp;redlink=1" class="new" title="Banditfish (page does not exist)">Banditfish</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Insect</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>12.5</td>
+<td>17.5</td>
+<td>220
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Midnight_Axolotl" title="Midnight Axolotl">Midnight Axolotl</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Spring, Autumn</td>
+<td>Insect</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>366.6</td>
+<td>2</td>
+<td>735
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Barbed_Shark" title="Barbed Shark">Barbed Shark</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>8.737</td>
+<td>825</td>
+<td>7210
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Emperor_Jellyfish" title="Emperor Jellyfish">Emperor Jellyfish</a></td>
+<td>Mythic</td>
+<td>Rainy</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>11.25</td>
+<td>650</td>
+<td>7310
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Sea_Mine?action=edit&amp;redlink=1" class="new" title="Sea Mine (page does not exist)">Sea Mine</a></td>
+<td>Mythic</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>29.23</td>
+<td>262.5</td>
+<td>7672
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Keepers_Altar">Keepers Altar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=5" title="Edit section: Keepers Altar">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Statue_of_Sovereignty#Keepers_Altar" title="Statue of Sovereignty">Keepers Altar</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Pale_Tang" title="Pale Tang">Pale Tang</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Bagel</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>67</td>
+<td>1</td>
+<td>67
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Bluefish" title="Bluefish">Bluefish</a></td>
+<td>Unusual</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>73</td>
+<td>0.5</td>
+<td>36.5
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Keepers_Guardian" title="Keepers Guardian">Keepers Guardian</a></td>
+<td>Rare</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>6</td>
+<td>30</td>
+<td>180
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Lapisjack" title="Lapisjack">Lapisjack</a></td>
+<td>Rare</td>
+<td>Rain, Clear</td>
+<td>Day</td>
+<td>Spring</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>3</td>
+<td>30</td>
+<td>90
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Umbral_Shark" title="Umbral Shark">Umbral Shark</a></td>
+<td>Legendary</td>
+<td>Clear</td>
+<td>Night</td>
+<td>Winter</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>6</td>
+<td>150</td>
+<td>900
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Moosewood">Moosewood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=6" title="Edit section: Moosewood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Moosewood" title="Moosewood">Moosewood</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Anchovy" title="Anchovy">Anchovy</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Spring</td>
+<td>N/a</td>
+<td>Saltwater</td>
+<td><span style="color:red">130, </span><span style="color:lime">135, </span><span style="color:blue">630</span>
+</td>
+<td>110</td>
+<td>.2</td>
+<td>22
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Bream" title="Bream">Bream</a></td>
+<td>Common</td>
+<td>Foggy</td>
+<td>Day</td>
+<td>Spring, Winter</td>
+<td>Worm</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>20</td>
+<td>2</td>
+<td>40
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Largemouth_Bass" title="Largemouth Bass">Largemouth Bass</a></td>
+<td>Common</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Worm</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>20</td>
+<td>3</td>
+<td>60
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Red_Snapper" title="Red Snapper">Red Snapper</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer, Autumn</td>
+<td>N/a</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>10</td>
+<td>3.5</td>
+<td>35
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Sockeye_Salmon" title="Sockeye Salmon">Sockeye Salmon</a></td>
+<td>Common</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Autumn, Winter</td>
+<td>Bagel</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>7</td>
+<td>5</td>
+<td>35
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Trout" title="Trout">Trout</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Insect</td>
+<td>Saltwater</td>
+<td><span style="color:red">390, </span><span style="color:lime">132, </span><span style="color:blue">345</span>
+</td>
+<td>13</td>
+<td>3</td>
+<td>39
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Carp" title="Carp">Carp</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Bagel</td>
+<td>Freshwater</td>
+<td><span style="color:red">560, </span><span style="color:lime">145, </span><span style="color:blue">300</span>
+</td>
+<td>22</td>
+<td>3</td>
+<td>66
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Goldfish" title="Goldfish">Goldfish</a></td>
+<td>Uncommon</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer</td>
+<td>Flakes</td>
+<td>Back Of Pond</td>
+<td><span style="color:red">525, </span><span style="color:lime">145, </span><span style="color:blue">310</span>
+</td>
+<td>95</td>
+<td>.5</td>
+<td>47.5
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Yellowfin_Tuna" title="Yellowfin Tuna">Yellowfin Tuna</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Saltwater</td>
+<td><span style="color:red">705, </span><span style="color:lime">136, </span><span style="color:blue">340</span>
+</td>
+<td>1</td>
+<td>100</td>
+<td>100
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Eel" title="Eel">Eel</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>Night</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>30</td>
+<td>3</td>
+<td>90
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Flounder" title="Flounder">Flounder</a></td>
+<td>Unusual</td>
+<td>Windy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Squid</td>
+<td>Docks</td>
+<td><span style="color:red">285, </span><span style="color:lime">133, </span><span style="color:blue">215</span>
+</td>
+<td>22</td>
+<td>3.6</td>
+<td>80
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Pike" title="Pike">Pike</a></td>
+<td>Unusual</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Autumn, Spring</td>
+<td>Insect</td>
+<td>Freshwater</td>
+<td><span style="color:red">540, </span><span style="color:lime">145, </span><span style="color:blue">330</span>
+</td>
+<td>66</td>
+<td>2.5</td>
+<td>165
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Snook" title="Snook">Snook</a></td>
+<td>Unusual</td>
+<td>Clear, Foggy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Shrimp</td>
+<td>Docks</td>
+<td>N/a</td>
+<td>16</td>
+<td>5</td>
+<td>80
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Whiptail_Catfish" title="Whiptail Catfish">Whiptail Catfish</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Spring, Autumn</td>
+<td>Seaweed</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>200</td>
+<td>2</td>
+<td>400
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Whisker_Bill" title="Whisker Bill">Whisker Bill</a></td>
+<td>Mythical</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Truffle Worm</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>31</td>
+<td>100</td>
+<td>3100
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mushgrove_Swamp">Mushgrove Swamp</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=7" title="Edit section: Mushgrove Swamp">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Mushgrove_Swamp" title="Mushgrove Swamp">Mushgrove Swamp</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Fungal_Cluster" class="mw-redirect" title="Fungal Cluster">Fungal Cluster</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>10</td>
+<td>0.9</td>
+<td>9
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Swamp_Bass" title="Swamp Bass">Swamp Bass</a></td>
+<td>Common</td>
+<td>Windy</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>10</td>
+<td>4</td>
+<td>40
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/White_Perch" title="White Perch">White Perch</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Autumn</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td><span style="color:red">2475, </span><span style="color:lime">125, </span><span style="color:blue">-675</span>
+</td>
+<td>66.6</td>
+<td>0.6</td>
+<td>40
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Bowfin" title="Bowfin">Bowfin</a></td>
+<td>Uncommon</td>
+<td>Rain</td>
+<td>Night</td>
+<td>Spring, Summer</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td><span style="color:red">2445, </span><span style="color:lime">125, </span><span style="color:blue">-795</span>
+</td>
+<td>17</td>
+<td>4.5</td>
+<td>76.5
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Grey_Carp" title="Grey Carp">Grey Carp</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>Seaweed</td>
+<td>Anywhere</td>
+<td><span style="color:red">2665, </span><span style="color:lime">125, </span><span style="color:blue">-815</span>
+</td>
+<td>17</td>
+<td>5</td>
+<td>85
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Swamp_Scallop" title="Swamp Scallop">Swamp Scallop</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>110</td>
+<td>1</td>
+<td>110
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Marsh_Gar" title="Marsh Gar">Marsh Gar</a></td>
+<td>Rare</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td><span style="color:red">2520, </span><span style="color:lime">125, </span><span style="color:blue">-815</span>
+</td>
+<td>7</td>
+<td>25</td>
+<td>175
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Mushgrove_Crab" title="Mushgrove Crab">Mushgrove Crab</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>250</td>
+<td>1</td>
+<td>250
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Alligator" title="Alligator">Alligator</a></td>
+<td>Legendary</td>
+<td>Foggy, Rain</td>
+<td>Night</td>
+<td>Spring</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td><span style="color:red">2670, </span><span style="color:lime">130, </span><span style="color:blue">-710</span>
+</td>
+<td>2.33</td>
+<td>300</td>
+<td>700
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Ocean">Ocean</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=8" title="Edit section: Ocean">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Ocean" title="Ocean">Ocean</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Haddock" title="Haddock">Haddock</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Autumn, Winter</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td><span style="color:red">-490, </span><span style="color:lime">135, </span><span style="color:blue">-420</span>
+</td>
+<td>2.6</td>
+<td>12.6</td>
+<td>33
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Mackerel" title="Mackerel">Mackerel</a></td>
+<td>Common</td>
+<td>Foggy</td>
+<td>Day</td>
+<td>Spring</td>
+<td>Shrimp</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>17</td>
+<td>2.5</td>
+<td>-42.5
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Mussel" title="Mussel">Mussel</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>100</td>
+<td>0.1</td>
+<td>10
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Porgy" title="Porgy">Porgy</a></td>
+<td>Common</td>
+<td>Clear, Foggy</td>
+<td>Day</td>
+<td>Summer, Spring</td>
+<td>Shrimp</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>30</td>
+<td>2.5</td>
+<td>75
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Sand_Dollar" title="Sand Dollar">Sand Dollar</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>100</td>
+<td>0.1</td>
+<td>10
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Sardine" title="Sardine">Sardine</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red">-395, </span><span style="color:lime">135, </span><span style="color:blue">600</span>
+</td>
+<td>106</td>
+<td>0.2</td>
+<td>21
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Sea_Bass" title="Sea Bass">Sea Bass</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Squid</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>16</td>
+<td>4</td>
+<td>64
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Shrimp" title="Shrimp">Shrimp</a></td>
+<td>Common</td>
+<td>Rain</td>
+<td>Night</td>
+<td>Spring, Autumn</td>
+<td>N/a</td>
+<td>Crab Cage + Deep Ocean</td>
+<td>N/a</td>
+<td>230</td>
+<td>0.1</td>
+<td>23
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Amberjack" title="Amberjack">Amberjack</a></td>
+<td>Uncommon</td>
+<td>Clear, Rain</td>
+<td>Day</td>
+<td>Spring</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">1520, </span><span style="color:lime">130, </span><span style="color:blue">-2470</span>
+</td>
+<td>3</td>
+<td>30</td>
+<td>90
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Barracuda" title="Barracuda">Barracuda</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Day</td>
+<td>N/a</td>
+<td>Worm</td>
+<td>Deep Ocean</td>
+<td><span style="color:red">885, </span><span style="color:lime">135, </span><span style="color:blue">600</span>
+</td>
+<td>14</td>
+<td>8</td>
+<td>112
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Cod" title="Cod">Cod</a></td>
+<td>Uncommon</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Winter, Spring</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-615, </span><span style="color:lime">135, </span><span style="color:blue">-150</span>
+</td>
+<td>9</td>
+<td>6</td>
+<td>54
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Crab" title="Crab">Crab</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Autumn</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>72</td>
+<td>1</td>
+<td>72
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Oyster" title="Oyster">Oyster</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer, Autumn</td>
+<td>N/a</td>
+<td>Near Rocks &amp; at Terrapin</td>
+<td>N/a</td>
+<td>60</td>
+<td>0.4</td>
+<td>24
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Prawn" title="Prawn">Prawn</a></td>
+<td>Uncommon</td>
+<td>Rain</td>
+<td>Night</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Crab Cage + Deep Ocean</td>
+<td>N/a</td>
+<td>90</td>
+<td>0.3</td>
+<td>27
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Salmon" title="Salmon">Salmon</a></td>
+<td>Uncommon</td>
+<td>Rain, Clear</td>
+<td>N/a</td>
+<td>Spring, Winter</td>
+<td>Worm</td>
+<td>Deep Ocean</td>
+<td><span style="color:red">1300, </span><span style="color:lime">135, </span><span style="color:blue">-1150</span>
+</td>
+<td>13</td>
+<td>7</td>
+<td>91
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Scallop" title="Scallop">Scallop</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter, Autumn</td>
+<td>N/a</td>
+<td>Scallop Spot</td>
+<td><span style="color:red">20, </span><span style="color:lime">135, </span><span style="color:blue">745</span>
+</td>
+<td>200</td>
+<td>0.3</td>
+<td>60
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Lobster" title="Lobster">Lobster</a></td>
+<td>Unusual</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>46</td>
+<td>2</td>
+<td>92
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Nurse_Shark" title="Nurse Shark">Nurse Shark</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Summer, Autumn</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-1645, </span><span style="color:lime">125, </span><span style="color:blue">505</span>
+</td>
+<td>1.3</td>
+<td>125</td>
+<td>162.5
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Anglerfish" title="Anglerfish">Anglerfish</a></td>
+<td>Rare</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Winter, Autumn</td>
+<td>Squid</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>115.3</td>
+<td>1.5</td>
+<td>172.95
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Bluefin_Tuna" title="Bluefin Tuna">Bluefin Tuna</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-1645, </span><span style="color:lime">125, </span><span style="color:blue">505</span>
+</td>
+<td>1.6</td>
+<td>200</td>
+<td>320
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Coelacanth" title="Coelacanth">Coelacanth</a></td>
+<td>Rare</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Winter, Autumn</td>
+<td>Squid</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>37</td>
+<td>10</td>
+<td>370
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Halibut" title="Halibut">Halibut</a></td>
+<td>Rare</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Summer, Spring</td>
+<td>Squid</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>1.25</td>
+<td>150</td>
+<td>187.5
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Pufferfish" title="Pufferfish">Pufferfish</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Seaweed</td>
+<td>Anywhere</td>
+<td><span style="color:red">-1435, </span><span style="color:lime">125, </span><span style="color:blue">460</span>
+</td>
+<td>115</td>
+<td>1</td>
+<td>115
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Sailfish" title="Sailfish">Sailfish</a></td>
+<td>Rare</td>
+<td>Windy, Clear</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>13</td>
+<td>50</td>
+<td>650
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Sea_Urchin" title="Sea Urchin">Sea Urchin</a></td>
+<td>Rare</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>356</td>
+<td>0.6</td>
+<td>213.6
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Stingray" title="Stingray">Stingray</a></td>
+<td>Rare</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer, Spring</td>
+<td>N/a</td>
+<td>Sea Caves</td>
+<td><span style="color:red">2130, </span><span style="color:lime">130, </span><span style="color:blue">900</span>
+</td>
+<td>7.5</td>
+<td>25</td>
+<td>187.5
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Swordfish" title="Swordfish">Swordfish</a></td>
+<td>Rare</td>
+<td>Windy, Clear</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Squid</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>3.4</td>
+<td>175</td>
+<td>600
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Bull_Shark" title="Bull Shark">Bull Shark</a></td>
+<td>Legendary</td>
+<td>Rain, Foggy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>3</td>
+<td>125</td>
+<td>375
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Crown_Bass" title="Crown Bass">Crown Bass</a></td>
+<td>Legendary</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Summer</td>
+<td>Squid</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>200</td>
+<td>4</td>
+<td>800
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Dolphin" title="Dolphin">Dolphin</a></td>
+<td>Legendary</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer, Spring</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>6</td>
+<td>250</td>
+<td>1500
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Moonfish" title="Moonfish">Moonfish</a></td>
+<td>Legendary</td>
+<td>Clear</td>
+<td>Night</td>
+<td>Winter</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>3.6</td>
+<td>500</td>
+<td>1800
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Rabbitfish" title="Rabbitfish">Rabbitfish</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Seaweed</td>
+<td>Anywhere</td>
+<td><span style="color:red">1060, </span><span style="color:lime">135, </span><span style="color:blue">-1150</span>
+</td>
+<td>183.5</td>
+<td>6</td>
+<td>1100
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Sawfish" title="Sawfish">Sawfish</a></td>
+<td>Legendary</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Autumn</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td><span style="color:red">-1450, </span><span style="color:lime">135, </span><span style="color:blue">1750</span>
+</td>
+<td>2.5</td>
+<td>600</td>
+<td>1500
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Colossal_Squid" title="Colossal Squid">Colossal Squid</a></td>
+<td>Mythic</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>5.4</td>
+<td>1800</td>
+<td>9720
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Great_Hammerhead_Shark" title="Great Hammerhead Shark">Great Hammerhead Shark</a></td>
+<td>Mythic</td>
+<td>Wind</td>
+<td>Day</td>
+<td>Spring</td>
+<td>Fish Head</td>
+<td>Shark Hunt</td>
+<td>N/a</td>
+<td>11</td>
+<td>500</td>
+<td>5500
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Great_White_Shark" title="Great White Shark">Great White Shark</a></td>
+<td>Mythic</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>Fish Head</td>
+<td>Shark Hunt</td>
+<td>N/a</td>
+<td>5</td>
+<td>1500</td>
+<td>7500
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Mythic_Fish" title="Mythic Fish">Mythic Fish</a></td>
+<td>Mythic</td>
+<td>N/a</td>
+<td>Day</td>
+<td>N/a</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1430</td>
+<td>1.5</td>
+<td>2145
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Oarfish" title="Oarfish">Oarfish</a></td>
+<td>Mythic</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Squid</td>
+<td>Deep Ocean</td>
+<td>N/a</td>
+<td>16</td>
+<td>250</td>
+<td>4000
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Sea_Pickle" title="Sea Pickle">Sea Pickle</a></td>
+<td>Mythic</td>
+<td>Clear, Cloudy</td>
+<td>Night</td>
+<td>Autumn, Summer</td>
+<td>Seaweed</td>
+<td>Anywhere or Crab Cage</td>
+<td>N/a</td>
+<td>2000</td>
+<td>1</td>
+<td>2000
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Whale_Shark" title="Whale Shark">Whale Shark</a></td>
+<td>Mythic</td>
+<td>Clear, Cloudy</td>
+<td>Day</td>
+<td>Summer, Autumn</td>
+<td>Shrimp</td>
+<td>Shark Hunt</td>
+<td>N/a</td>
+<td>0.65</td>
+<td>9000</td>
+<td>5850
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Roslit_Bay">Roslit Bay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=9" title="Edit section: Roslit Bay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Roslit_Bay" title="Roslit Bay">Roslit Bay</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Chub" title="Chub">Chub</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>Seaweed</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>13</td>
+<td>2</td>
+<td>26
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Minnow" title="Minnow">Minnow</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Bagel</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>76</td>
+<td>0.5</td>
+<td>38
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Perch" title="Perch">Perch</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Worm</td>
+<td>Freshwater</td>
+<td><span style="color:red">-1805, </span><span style="color:lime">140, </span><span style="color:blue">595</span>
+</td>
+<td>60</td>
+<td>0.7</td>
+<td>42
+</td></tr>
+<tr style="background-color: #c1f0c8; color: #000;">
+<td><a href="/wiki/Blue_Tang" title="Blue Tang">Blue Tang</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>Flakes</td>
+<td>Coral Reef</td>
+<td><span style="color:red">-1465, </span><span style="color:lime">125, </span><span style="color:blue">525</span>
+</td>
+<td>60</td>
+<td>1</td>
+<td>60
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Butterflyfish" title="Butterflyfish">Butterflyfish</a></td>
+<td>Uncommon</td>
+<td>Clear, Foggy</td>
+<td>Day</td>
+<td>N/a</td>
+<td>Flakes</td>
+<td>Coral Reef</td>
+<td>N/a</td>
+<td>73</td>
+<td>1</td>
+<td>73
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Clownfish" title="Clownfish">Clownfish</a></td>
+<td>Uncommon</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Flakes</td>
+<td>Coral Reef</td>
+<td><span style="color:red">-1520, </span><span style="color:lime">125, </span><span style="color:blue">520</span>
+</td>
+<td>152</td>
+<td>0.5</td>
+<td>76
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Pumpkinseed" title="Pumpkinseed">Pumpkinseed</a></td>
+<td>Uncommon</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Minnow</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>180</td>
+<td>0.3</td>
+<td>54
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Angelfish" title="Angelfish">Angelfish</a></td>
+<td>Unusual</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Worm</td>
+<td>Coral Reef</td>
+<td><span style="color:red">-1500, </span><span style="color:lime">125, </span><span style="color:blue">615</span>
+</td>
+<td>60</td>
+<td>1.2</td>
+<td>72
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Ribbon_Eel" title="Ribbon Eel">Ribbon Eel</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Minnow</td>
+<td>Coral Reef</td>
+<td>N/a</td>
+<td>13</td>
+<td>10</td>
+<td>130
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Squid" title="Squid">Squid</a></td>
+<td>Unusual</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>Winter</td>
+<td>Shrimp</td>
+<td>Coral Reef</td>
+<td><span style="color:red">-1520, </span><span style="color:lime">125, </span><span style="color:blue">520</span>
+</td>
+<td>56</td>
+<td>2</td>
+<td>112
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Alligator_Gar" title="Alligator Gar">Alligator Gar</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>5</td>
+<td>32</td>
+<td>160
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Arapaima" title="Arapaima">Arapaima</a></td>
+<td>Rare</td>
+<td>Rain, Fog</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Minnow</td>
+<td>Freshwater</td>
+<td><span style="color:red">-1765, </span><span style="color:lime">140, </span><span style="color:blue">600</span>
+</td>
+<td>1.2</td>
+<td>150</td>
+<td>180
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Suckermouth_Catfish" title="Suckermouth Catfish">Suckermouth Catfish</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Spring, Autumn</td>
+<td>Seaweed</td>
+<td>Pond, Near Seaweed</td>
+<td><span style="color:red">-1800, </span><span style="color:lime">140, </span><span style="color:blue">620</span>
+</td>
+<td>9</td>
+<td>14</td>
+<td>126
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Axolotl" title="Axolotl">Axolotl</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Spring, Autumn</td>
+<td>Insect</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Dumbo_Octopus" title="Dumbo Octopus">Dumbo Octopus</a></td>
+<td>Legendary</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Worm</td>
+<td>Coral Reef</td>
+<td>N/a</td>
+<td>225</td>
+<td>4</td>
+<td>900
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Manta_Ray" title="Manta Ray">Manta Ray</a></td>
+<td>Mythic</td>
+<td>N/a</td>
+<td>Night</td>
+<td>Summer</td>
+<td>Shrimp</td>
+<td>Coral Reef</td>
+<td>N/a</td>
+<td>3</td>
+<td>1000</td>
+<td>3000
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Roslit_Volcano">Roslit Volcano</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=10" title="Edit section: Roslit Volcano">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Roslit_Bay#Roslit_Volcano" title="Roslit Bay">Roslit Volcano</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Basalt" class="mw-redirect" title="Basalt">Basalt</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>0.7</td>
+<td>17.6</td>
+<td>12.32
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Magma_Tang" title="Magma Tang">Magma Tang</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>Coal</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>43</td>
+<td>1.7</td>
+<td>73.1
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Ember_Perch" title="Ember Perch">Ember Perch</a></td>
+<td>Unusual</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>108</td>
+<td>0.9</td>
+<td>97.2
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Ember_Snapper" title="Ember Snapper">Ember Snapper</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Coal</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>17</td>
+<td>9.6</td>
+<td>163.2
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Pyrogrub" title="Pyrogrub">Pyrogrub</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Coal</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>6</td>
+<td>43.7</td>
+<td>262.2
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Volcanic_Geode" class="mw-redirect" title="Volcanic Geode">Volcanic Geode</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>10</td>
+<td>20</td>
+<td>200
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Obsidian_Salmon" title="Obsidian Salmon">Obsidian Salmon</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Coal</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>33.3</td>
+<td>20</td>
+<td>666
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Obsidian_Swordfish" title="Obsidian Swordfish">Obsidian Swordfish</a></td>
+<td>Mythic</td>
+<td>Windy, Clear</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>Minnow</td>
+<td>Aynwhere</td>
+<td>N/a</td>
+<td>10</td>
+<td>185.6</td>
+<td>1856
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Snowcap_Island">Snowcap Island</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=11" title="Edit section: Snowcap Island">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Snowcap_Island" title="Snowcap Island">Snowcap Island</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Ice" class="mw-redirect" title="Ice">Ice</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>2.5</td>
+<td>5.2</td>
+<td>13
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Bluegill" title="Bluegill">Bluegill</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Summer, Spring</td>
+<td>Insect</td>
+<td>Saltwater</td>
+<td><span style="color:red">3070, </span><span style="color:lime">130, </span><span style="color:blue">2600</span>
+</td>
+<td>100</td>
+<td>0.4</td>
+<td>40
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Grayling" title="Grayling">Grayling</a></td>
+<td>Common</td>
+<td>Foggy</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>Insect</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>40</td>
+<td>1.3</td>
+<td>52
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Herring" title="Herring">Herring</a></td>
+<td>Common</td>
+<td>Clear, Windy</td>
+<td>Day</td>
+<td>Summer, Spring</td>
+<td>Shrimp</td>
+<td>Saltwater</td>
+<td><span style="color:red">2595, </span><span style="color:lime">140, </span><span style="color:blue">2500</span>
+</td>
+<td>64</td>
+<td>0.8</td>
+<td>50
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Pollock" title="Pollock">Pollock</a></td>
+<td>Common</td>
+<td>Foggy, Rain</td>
+<td>N/a</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Docks</td>
+<td><span style="color:red">2550, </span><span style="color:lime">135, </span><span style="color:blue">2385</span>
+</td>
+<td>14</td>
+<td>2.2</td>
+<td>30.8
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Red_Drum" title="Red Drum">Red Drum</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Autumn</td>
+<td>Insect</td>
+<td>Saltwater</td>
+<td><span style="color:red">2310, </span><span style="color:lime">135, </span><span style="color:blue">2545</span>
+</td>
+<td>32.5</td>
+<td>2</td>
+<td>65
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Arctic_Char" title="Arctic Char">Arctic Char</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Autumn</td>
+<td>Insect</td>
+<td>Saltwater</td>
+<td><span style="color:red">2350, </span><span style="color:lime">130, </span><span style="color:blue">2230</span>
+</td>
+<td>13</td>
+<td>3.2</td>
+<td>41.6
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Blackfish" title="Blackfish">Blackfish</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Worm</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>50</td>
+<td>1.3</td>
+<td>65
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Burbot" title="Burbot">Burbot</a></td>
+<td>Uncommon</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>Minnow</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>23</td>
+<td>3.4</td>
+<td>78.2
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Glacier_Pike" title="Glacier Pike">Glacier Pike</a></td>
+<td>Unusual</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Autumn, Spring</td>
+<td>Insect</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>66</td>
+<td>2.3</td>
+<td>150
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Lingcod" title="Lingcod">Lingcod</a></td>
+<td>Unusual</td>
+<td>Windy</td>
+<td>Day</td>
+<td>Autumn, Summer</td>
+<td>Fish Head</td>
+<td>Saltwater</td>
+<td><span style="color:red">2820, </span><span style="color:lime">125, </span><span style="color:blue">2805</span>
+</td>
+<td>8</td>
+<td>10</td>
+<td>80
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Skipjack_Tuna" title="Skipjack Tuna">Skipjack Tuna</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>9</td>
+<td>15</td>
+<td>135
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Sturgeon" title="Sturgeon">Sturgeon</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Seaweed</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>4</td>
+<td>50</td>
+<td>200
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Pond_Emperor" title="Pond Emperor">Pond Emperor</a></td>
+<td>Legendary</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Squid</td>
+<td>Freshwater</td>
+<td>N/a</td>
+<td>4</td>
+<td>180</td>
+<td>720
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Glacierfish" title="Glacierfish">Glacierfish</a></td>
+<td>Mythic</td>
+<td>Rain, Foggy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Truffle Worm</td>
+<td>Caves</td>
+<td><span style="color:red">2860, </span><span style="color:lime">135, </span><span style="color:blue">2620</span>
+</td>
+<td>13</td>
+<td>50</td>
+<td>650
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Ringle" title="Ringle">Ringle</a></td>
+<td>Mythic</td>
+<td>Clear, Foggy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Bagel</td>
+<td>Saltwater</td>
+<td>N/a</td>
+<td>2250</td>
+<td>0.2</td>
+<td>450
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Sunstone_Island">Sunstone Island</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=12" title="Edit section: Sunstone Island">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Sunstone_Island" title="Sunstone Island">Sunstone Island</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Glassfish" title="Glassfish">Glassfish</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td><span style="color:red">-905, </span><span style="color:lime">130, </span><span style="color:blue">-1000</span>
+</td>
+<td>112.5</td>
+<td>0.2</td>
+<td>22.5
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Sweetfish" title="Sweetfish">Sweetfish</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td><span style="color:red">-940, </span><span style="color:lime">130, </span><span style="color:blue">-1105</span>
+</td>
+<td>80</td>
+<td>0.3</td>
+<td>24
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Chinfish" title="Chinfish">Chinfish</a></td>
+<td>Uncommon</td>
+<td>Rain</td>
+<td>N/a</td>
+<td>Autumn, Winter</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red">-625, </span><span style="color:lime">130, </span><span style="color:blue">-950</span>
+</td>
+<td>21</td>
+<td>4</td>
+<td>84
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Longtail_Bass" title="Longtail Bass">Longtail Bass</a></td>
+<td>Uncommon</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Shrimp</td>
+<td>Anywhere</td>
+<td><span style="color:red">-860, </span><span style="color:lime">135, </span><span style="color:blue">-1205</span>
+</td>
+<td>30</td>
+<td>3</td>
+<td>90
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Red_Tang" title="Red Tang">Red Tang</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td><span style="color:red">-1195, </span><span style="color:lime">125, </span><span style="color:blue">1220</span>
+</td>
+<td>66.6</td>
+<td>1.5</td>
+<td>100
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Trumpetfish" title="Trumpetfish">Trumpetfish</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Autumn, Summer</td>
+<td>Shrimp</td>
+<td>Anywhere</td>
+<td><span style="color:red">-790, </span><span style="color:lime">125, </span><span style="color:blue">-1340</span>
+</td>
+<td>50</td>
+<td>2</td>
+<td>100
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Mahi_Mahi" title="Mahi Mahi">Mahi Mahi</a></td>
+<td>Rare</td>
+<td>Clear, Windy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red">-730, </span><span style="color:lime">130, </span><span style="color:blue">-1350</span>
+</td>
+<td>10</td>
+<td>15</td>
+<td>150
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Napoleonfish" title="Napoleonfish">Napoleonfish</a></td>
+<td>Rare</td>
+<td>Windy</td>
+<td>Day</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>5.75</td>
+<td>40</td>
+<td>230
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Sunfish" title="Sunfish">Sunfish</a></td>
+<td>Legendary</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red">-975, </span><span style="color:lime">125, </span><span style="color:blue">-1430</span>
+</td>
+<td>1.5</td>
+<td>600</td>
+<td>900
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Wiifish" title="Wiifish">Wiifish</a></td>
+<td>Legendary</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>30</td>
+<td>30</td>
+<td>900
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Voltfish" title="Voltfish">Voltfish</a></td>
+<td>Mythic</td>
+<td>Rainy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Super Flakes</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1375</td>
+<td>1.2</td>
+<td>1650
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Terrapin_Island">Terrapin Island</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=13" title="Edit section: Terrapin Island">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Terrapin_Island" title="Terrapin Island">Terrapin Island</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Gudgeon" title="Gudgeon">Gudgeon</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>Day</td>
+<td>Spring, Summer</td>
+<td>Insect</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>140</td>
+<td>0.2</td>
+<td>28
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Smallmouth_Bass" title="Smallmouth Bass">Smallmouth Bass</a></td>
+<td>Common</td>
+<td>Wind</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>42</td>
+<td>1.3</td>
+<td>54.6
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Walleye" title="Walleye">Walleye</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Autumn</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-225, </span><span style="color:lime">125, </span><span style="color:blue">2150</span>
+</td>
+<td>22</td>
+<td>2.7</td>
+<td>59.4
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/White_Bass" title="White Bass">White Bass</a></td>
+<td>Uncommon</td>
+<td>Foggy</td>
+<td>Day</td>
+<td>Spring</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-50, </span><span style="color:lime">130, </span><span style="color:blue">2025</span>
+</td>
+<td>45</td>
+<td>1.5</td>
+<td>67.5
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Chinook_Salmon" title="Chinook Salmon">Chinook Salmon</a></td>
+<td>Unusual</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Autumn</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td><span style="color:red">-305, </span><span style="color:lime">125, </span><span style="color:blue">1625</span>
+</td>
+<td>6</td>
+<td>24.7</td>
+<td>148.2
+</td></tr>
+<tr style="background-color:#f2ceef; color: #000;">
+<td><a href="/wiki/Redeye_Bass" title="Redeye Bass">Redeye Bass</a></td>
+<td>Unusual</td>
+<td>Wind</td>
+<td>Day</td>
+<td>Spring, Autumn</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td><span style="color:red">-35, </span><span style="color:lime">125, </span><span style="color:blue">2285</span>
+</td>
+<td>76</td>
+<td>0.9</td>
+<td>68.4
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/King_Oyster" title="King Oyster">King Oyster</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Summer, Autumn</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>200</td>
+<td>0.6</td>
+<td>120
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Golden_Smallmouth_Bass" title="Golden Smallmouth Bass">Golden Smallmouth Bass</a></td>
+<td>Legendary</td>
+<td>Foggy</td>
+<td>Day</td>
+<td>Autumn</td>
+<td>Flakes</td>
+<td>Anywhere</td>
+<td><span style="color:red">65, </span><span style="color:lime">135, </span><span style="color:blue">2140</span>
+</td>
+<td>156</td>
+<td>4</td>
+<td>625
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Olm" title="Olm">Olm</a></td>
+<td>Legendary</td>
+<td>Clear, Foggy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Flakes</td>
+<td>Hidden Cave</td>
+<td><span style="color:red">95, </span><span style="color:lime">125, </span><span style="color:blue">1980</span>
+</td>
+<td>2250</td>
+<td>0.3</td>
+<td>675
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Sea_Turtle" title="Sea Turtle">Sea Turtle</a></td>
+<td>Mythic</td>
+<td>N/a</td>
+<td>Day</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red"> N/a , </span><span style="color:lime">{{{2}}}, </span><span style="color:blue">{{{3}}}</span>
+</td>
+<td>13.33</td>
+<td>110</td>
+<td>1465
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Vertigo">Vertigo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=14" title="Edit section: Vertigo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/Vertigo" title="Vertigo">Vertigo</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Night_Shrimp" title="Night Shrimp">Night Shrimp</a></td>
+<td>Common</td>
+<td>Clear</td>
+<td>Day</td>
+<td>Summer, Winter</td>
+<td>N/a</td>
+<td>Crab Cage</td>
+<td>N/a</td>
+<td>280</td>
+<td>0.1</td>
+<td>28
+</td></tr>
+<tr style="background-color:#c0e6f5; color: #000;">
+<td><a href="/wiki/Spiderfish" title="Spiderfish">Spiderfish</a></td>
+<td>Common</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td><span style="color:red">-155, </span><span style="color:lime">-740, </span><span style="color:blue">1205</span>
+</td>
+<td>30</td>
+<td>0.7</td>
+<td>21
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Twilight_Eel" title="Twilight Eel">Twilight Eel</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Insect</td>
+<td>Anywhere</td>
+<td><span style="color:red">-65, </span><span style="color:lime">-735, </span><span style="color:blue">1205</span>
+</td>
+<td>5</td>
+<td>14</td>
+<td>70
+</td></tr>
+<tr style="background-color: #f2ceef; color: #000;">
+<td><a href="/wiki/Fangborn_Gar" title="Fangborn Gar">Fangborn Gar</a></td>
+<td>Unusual</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Fish Head</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>4</td>
+<td>30</td>
+<td>120
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Abyssacuda" title="Abyssacuda">Abyssacuda</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Spring, Summer</td>
+<td>Minnow</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>36</td>
+<td>8</td>
+<td>288
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Voidfin_Mahi" title="Voidfin Mahi">Voidfin Mahi</a></td>
+<td>Rare</td>
+<td>Clear, Windy</td>
+<td>N/a</td>
+<td>Spring</td>
+<td>Truffle Worm</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>29</td>
+<td>12</td>
+<td>348
+</td></tr>
+<tr style="background-color:#ffe484; color: #000;">
+<td><a href="/wiki/Rubber_Ducky" title="Rubber Ducky">Rubber Ducky</a></td>
+<td>Legendary</td>
+<td>Rainy</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1290</td>
+<td>0.6</td>
+<td>775
+</td></tr>
+<tr style="background-color:#ffb3ff; color: #000;">
+<td><a href="/wiki/Isonade" title="Isonade">Isonade</a></td>
+<td>Mythical</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Truffle Worm</td>
+<td>Strange Whirlpool</td>
+<td>N/a</td>
+<td>6.15</td>
+<td>1500</td>
+<td>9225
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Regionless">Regionless</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=15" title="Edit section: Regionless">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption>Regionless
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Boot" class="mw-redirect" title="Boot">Boot</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>12.5</td>
+<td>1.2</td>
+<td>15
+</td></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Driftwood" class="mw-redirect" title="Driftwood">Driftwood</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>16.6</td>
+<td>0.6</td>
+<td>10
+</td></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Log" class="mw-redirect" title="Log">Log</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>16.6</td>
+<td>6</td>
+<td>100
+</td></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Rock" class="mw-redirect" title="Rock">Rock</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>0.7</td>
+<td>20</td>
+<td>14
+</td></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Seaweed" class="mw-redirect" title="Seaweed">Seaweed</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>40</td>
+<td>0.2</td>
+<td>8
+</td></tr>
+<tr style="background-color:#a8a4a4; color: #000;">
+<td><a href="/wiki/Tire" class="mw-redirect" title="Tire">Tire</a></td>
+<td>Trash</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>1.85</td>
+<td>10</td>
+<td>18.5
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Bait_Crate" class="mw-redirect" title="Bait Crate">Bait Crate</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>9.375</td>
+<td>8</td>
+<td>75
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Common_Crate" class="mw-redirect" title="Common Crate">Common Crate</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>10</td>
+<td>8</td>
+<td>80
+</td></tr>
+<tr style="background-color:#c1f0c8; color: #000;">
+<td><a href="/wiki/Fish_Barrel" class="mw-redirect" title="Fish Barrel">Fish Barrel</a></td>
+<td>Uncommon</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>5.3</td>
+<td>15</td>
+<td>80
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Carbon_Crate" class="mw-redirect" title="Carbon Crate">Carbon Crate</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>8.75</td>
+<td>16</td>
+<td>140
+</td></tr>
+<tr style="background-color:#e0bcec; color: #000;">
+<td><a href="/wiki/Quality_Bait_Crate" class="mw-redirect" title="Quality Bait Crate">Quality Bait Crate</a></td>
+<td>Rare</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Magnet</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>12.5</td>
+<td>12</td>
+<td>150
+</td></tr>
+<tr style="background-color:#68e8c8; color: #000;">
+<td><a href="/wiki/Enchanting#Enchant_Relics" title="Enchanting">Enchant Relic</a></td>
+<td>Relic</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Anywhere</td>
+<td>N/a</td>
+<td>166.6</td>
+<td>21</td>
+<td>3500
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="FischFright_Event">FischFright Event</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=16" title="Edit section: FischFright Event">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable mw-collapsible">
+<caption><a href="/wiki/FischFright" title="FischFright">FischFright</a>
+</caption>
+<tbody><tr>
+<th colspan="2">Fish</th>
+<th colspan="4">Preferences</th>
+<th colspan="2">Area</th>
+<th colspan="3">Value
+</th></tr>
+
+<tr>
+<th>Fish</th>
+<th>Rarity</th>
+<th>Weather</th>
+<th>Time</th>
+<th>Season</th>
+<th>Bait</th>
+<th>Sublocation</th>
+<th>Radar Location</th>
+<th>C$/kg</th>
+<th>Avg. Kg</th>
+<th>Avg C$
+</th></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Candy_Fish" title="Candy Fish">Candy Fish</a></td>
+<td>Event</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Flakes</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>200</td>
+<td>1</td>
+<td>200
+</td></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Ghoulfish" title="Ghoulfish">Ghoulfish</a></td>
+<td>Event</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>N/a</td>
+<td>Squid</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>83.3</td>
+<td>15</td>
+<td>1250
+</td></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Lurkerfish" title="Lurkerfish">Lurkerfish</a></td>
+<td>Event</td>
+<td>Foggy</td>
+<td>N/a</td>
+<td>Winter, Autumn</td>
+<td>Squid</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>750</td>
+<td>1.2</td>
+<td>900
+</td></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Nessie" title="Nessie">Nessie</a></td>
+<td>Event</td>
+<td>Foggy</td>
+<td>Night</td>
+<td>N/a</td>
+<td>Truffle Worm</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>1.66</td>
+<td>4000</td>
+<td>6666
+</td></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Skelefish" title="Skelefish">Skelefish</a></td>
+<td>Event</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Fish Head</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>200</td>
+<td>1</td>
+<td>200
+</td></tr>
+<tr style="background-color:#a4c2f4; color: #000;">
+<td><a href="/wiki/Zombiefish" title="Zombiefish">Zombiefish</a></td>
+<td>Event</td>
+<td>Clear</td>
+<td>N/a</td>
+<td>Winter</td>
+<td>Flakes</td>
+<td>Frightful Pool</td>
+<td>N/a</td>
+<td>66.6</td>
+<td>3</td>
+<td>200
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/wiki/Fish?action=edit&amp;section=17" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Changelogs#1.03.0" title="Changelogs">1.03.0</a> - Fixed many typos in <a href="/wiki/Items#Bestiary" title="Items">Bestiary</a> Descriptions, Added new Fish: <a href="/wiki/Bone" class="mw-redirect" title="Bone">Bone</a>, <a href="/wiki/Gazerfish" title="Gazerfish">Gazerfish</a>, <a href="/wiki/Brine_Shrimp" title="Brine Shrimp">Brine Shrimp</a>, <a href="/wiki/Globe_Jellyfish" title="Globe Jellyfish">Globe Jellyfish</a>, <a href="/wiki/Dweller_Catfish" title="Dweller Catfish">Dweller Catfish</a>, <a href="/wiki/Eyefestation" title="Eyefestation">Eyefestation</a>, <a href="/wiki/Spectral_Serpent" title="Spectral Serpent">Spectral Serpent</a>, <a href="/wiki/Stalactite" class="mw-redirect" title="Stalactite">Stalactite</a>, <a href="/wiki/Horseshoe_Crab?action=edit&amp;redlink=1" class="new" title="Horseshoe Crab (page does not exist)">Horseshoe Crab</a>, <a href="/wiki/Slate_Tuna?action=edit&amp;redlink=1" class="new" title="Slate Tuna (page does not exist)">Slate Tuna</a>, <a href="/wiki/Phantom_Ray?action=edit&amp;redlink=1" class="new" title="Phantom Ray (page does not exist)">Phantom Ray</a>, <a href="/wiki/Coral_Geode" class="mw-redirect" title="Coral Geode">Coral Geode</a>, <a href="/wiki/Cockatoo_Squid?action=edit&amp;redlink=1" class="new" title="Cockatoo Squid (page does not exist)">Cockatoo Squid</a>, <a href="/wiki/Rockstar_Hermit_Crab?action=edit&amp;redlink=1" class="new" title="Rockstar Hermit Crab (page does not exist)">Rockstar Hermit Crab</a>, <a href="/wiki/Banditfish?action=edit&amp;redlink=1" class="new" title="Banditfish (page does not exist)">Banditfish</a>, <a href="/wiki/Midnight_Axolotl" title="Midnight Axolotl">Midnight Axolotl</a>, <a href="/wiki/Barbed_Shark" title="Barbed Shark">Barbed Shark</a>, <a href="/wiki/Emperor_Jellyfish" title="Emperor Jellyfish">Emperor Jellyfish</a>, <a href="/wiki/Sea_Mine?action=edit&amp;redlink=1" class="new" title="Sea Mine (page does not exist)">Sea Mine</a>, <a href="/wiki/Whale_Shark" title="Whale Shark">Whale Shark</a>, <a href="/wiki/Whiptail_Catfish" title="Whiptail Catfish">Whiptail Catfish</a>, <a href="/wiki/Sea_Turtle" title="Sea Turtle">Sea Turtle</a>, <a href="/wiki/Voltfish" title="Voltfish">Voltfish</a>, <a href="/wiki/Axolotl" title="Axolotl">Axolotl</a>
+</p><p><a href="/wiki/Changelogs#1.02.1" title="Changelogs">1.02.1</a> - Fixed bug causing <a href="/wiki/Items#Bestiary" title="Items">Bestiary</a> Locations to not be discovered
+</p><p><a href="/wiki/Changelogs#1.02.0" title="Changelogs">1.02.0</a> - <a href="/wiki/Dolphin" title="Dolphin">Dolphin</a>, <a href="/wiki/Dumbo_Octopus" title="Dumbo Octopus">Dumbo Octopus</a>, <a href="/wiki/Manta_Ray" title="Manta Ray">Manta Ray</a>, and <a href="/wiki/Sea_Pickle" title="Sea Pickle">Sea Pickle</a> Added; <a href="/wiki/FischFright" title="FischFright">FischFright</a> fish Added
+</p><p><a href="/wiki/Changelogs#1.01.4" title="Changelogs">1.01.4</a> - <a href="/wiki/Stingray" title="Stingray">Stingray</a> Added
+</p><p><a href="/wiki/Changelogs#1.01.3" title="Changelogs">1.01.3</a> - Bug involving fish not being assigned a weight fixed
+</p><p><a href="/wiki/Changelogs#1.01.0" title="Changelogs">1.01.0</a> - <a href="/wiki/Oarfish" title="Oarfish">Oarfish</a>, <a href="/wiki/Ringle" title="Ringle">Ringle</a>, <a href="/wiki/Crown_Bass" title="Crown Bass">Crown Bass</a> added; <a href="/wiki/Bull_Shark" title="Bull Shark">Bull Shark</a> rarity change (Rare â Legendary)
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw151
+Cached time: 20241102163656
+Cache expiry: 864000
+Reduced expiry: false
+Complications: [showâtoc]
+CPU time usage: 0.184 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 974/1000000
+Postâexpand include size: 6209/2097152 bytes
+Template argument size: 595/2097152 bytes
+Highest expansion depth: 3/100
+Expensive parser function count: 0/99
+Unstrip recursion depth: 0/20
+Unstrip postâexpand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.317      1 -total
+ 62.05%    5.160     56 Template:Coordinates
+-->
+
+<!-- Saved in parser cache with key fischwiki:pcache:idhash:11-0!canonical and timestamp 20241102163656 and revision id 2604. Rendering was triggered because: edit-page
+ -->
+</div><noscript><img src="https://login.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://fisch.miraheze.org/wiki/Fish?oldid=2604">https://fisch.miraheze.org/wiki/Fish?oldid=2604</a>"</div>
+<div class="visualClear"></div></div></div></div></div><div id="content-bottom-stuff"><div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div><div id='mw-data-after-content'>
+	<div class="mw-cookiewarning-container"><div class="mw-cookiewarning-text"><span>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span></div><form method="POST"><div class='oo-ui-layout oo-ui-horizontalLayout'><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' href='https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>More information</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget'><button type='submit' tabindex='0' name='disablecookiewarning' value='OK' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>OK</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div></form></div>
+</div>
+</div></div><div id="mw-site-navigation"><div id="p-logo" class="mw-portlet" role="banner"><a class="mw-wiki-logo fallback" href="/wiki/Main_Page" title="Visit the main page"></a></div><div id="site-navigation" class="sidebar-chunk"><h2><span>Navigation</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet" id="p-navigation" aria-labelledby="p-navigation-label"><h3 id="p-navigation-label" lang="en" dir="ltr">Navigation</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-help-mediawiki" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"><span>Help about MediaWiki</span></a></li></ul></div></div></div></div><div id="site-tools" class="sidebar-chunk"><h2><span>Wiki tools</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet" id="p-tb" aria-labelledby="p-tb-label"><h3 id="p-tb-label" lang="en" dir="ltr">Wiki tools</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-cite" class="mw-list-item"><a href="/wiki/Special:CiteThisPage?page=Fish&amp;id=2604&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/wiki/Special:UrlShortener?url=https%3A%2F%2Ffisch.miraheze.org%2Fwiki%2FFish"><span>Get shortened URL</span></a></li></ul></div></div></div></div></div><div id="mw-related-navigation"><div id="page-tools" class="sidebar-chunk"><h2><span>Page tools</span></h2><div class="sidebar-inner"><div role="navigation" class="mw-portlet emptyPortlet" id="p-cactions" title="More options" aria-labelledby="p-cactions-label"><h3 id="p-cactions-label" lang="en" dir="ltr">Page tools</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"></ul></div></div><div role="navigation" class="mw-portlet emptyPortlet" id="p-userpagetools" aria-labelledby="p-userpagetools-label"><h3 id="p-userpagetools-label" lang="en" dir="ltr">User page tools</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"></ul></div></div><div role="navigation" class="mw-portlet" id="p-pagemisc" aria-labelledby="p-pagemisc-label"><h3 id="p-pagemisc-label" lang="en" dir="ltr">More</h3><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Fish" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Fish" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/wiki/Fish?oldid=2604" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/wiki/Fish?action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-pagelog" class="mw-list-item"><a href="/wiki/Special:Log?page=Fish"><span>Page logs</span></a></li></ul></div></div></div></div></div><div class="visualClear"></div></div></div><div id="mw-footer-container" class="mw-footer-container ts-container"><div id="mw-footer" class="mw-footer ts-inner" role="contentinfo" lang="en" dir="ltr"><ul id="footer-icons"><li id="footer-poweredbyico" class="footer-icons"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze_Meta"><img src="https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg" alt="Hosted by Miraheze" width="88" height="31" loading="lazy"></a><a href="https://www.mediawiki.org/"><img src="/1.42/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/1.42/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /1.42/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li><li id="footer-copyrightico" class="footer-icons"><a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://meta.miraheze.org/1.42/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)" width="88" height="31" loading="lazy"></a></li></ul><div id="footer-list"><ul id="footer-info"><li id="footer-info-lastmod"> This page was last edited on 2 November 2024, at 16:36.</li><li id="footer-info-copyright">Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.</li></ul><ul id="footer-places"><li id="footer-places-privacy"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy">Privacy policy</a></li><li id="footer-places-about"><a href="/wiki/Official_Fisch_Wiki:About">About Official Fisch Wiki</a></li><li id="footer-places-disclaimers"><a href="/wiki/Official_Fisch_Wiki:General_disclaimer">Disclaimers</a></li><li id="footer-places-termsofservice"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Terms_of_Use">Terms of Use</a></li><li id="footer-places-donate"><a href="https://meta.miraheze.org/wiki/Special:MyLanguage/Donate">Donate to Miraheze</a></li><li id="footer-places-mobileview"><a href="https://fisch.miraheze.org/wiki/Fish?mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li></ul></div><div class="visualClear"></div></div></div></div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw173","wgBackendResponseTime":133,"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.188","ppvisitednodes":{"value":974,"limit":1000000},"postexpandincludesize":{"value":6209,"limit":2097152},"templateargumentsize":{"value":595,"limit":2097152},"expansiondepth":{"value":3,"limit":100},"expensivefunctioncount":{"value":0,"limit":99},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    8.317      1 -total"," 62.05%    5.160     56 Template:Coordinates"]},"cachereport":{"origin":"mw151","timestamp":"20241102163656","ttl":864000,"transientcontent":false}}});});</script>
+	<script>
+	var _paq = window._paq = window._paq || [];
+	if ( 1 ) {
+		_paq.push(['disableCookies']);
+	}
+	if ( 0 ) {
+		_paq.push(['setRequestMethod', 'GET']);
+	}
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u = "https://analytics.wikitide.net/";
+		_paq.push(['setTrackerUrl', u+'matomo.php']);
+		_paq.push(['setDocumentTitle', "fischwiki" + " - " + "Fish"]);
+		_paq.push(['setSiteId', 15159]);
+		_paq.push(['setCustomVariable', 1, 'userType', "Anonymous", "visit"]);
+		if ( 1 ) {
+			_paq.push(['addTracker', u + 'matomo.php', 1]);
+		}
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	})();
+	</script>
+	<noscript><p><img src="https://analytics.wikitide.net/matomo.php?idsite=15159&amp;rec=1&amp;action_name=Fish" style="border:0;" alt="" /></p></noscript>
+</body>
+</html>
